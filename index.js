@@ -1,3 +1,4 @@
+//*backend base
 const colors = require('colors');
 console.log("entramos al index".bgCyan);
 
